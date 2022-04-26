@@ -1,0 +1,16 @@
+Harry_Potter.html 43.91914895764206
+Tom_Riddle.html 7.677464610532914
+Hermione_Granger.html 1.8689465211412577
+Albus_Dumbledore.html 1.3692695417054568
+**********
+Hermione_Granger.html 9.34473260570629
+Ronald_Weasley.html 7.980506079929466
+Harry_Potter.html 7.638112862198619
+Ginevra_Weasley.html 0.6334184257783932
+**********
+Harry_Potter.html 30.552451448794475
+Tom_Riddle.html 26.103379675811908
+Albus_Dumbledore.html 4.107808625116371
+Severus_Snape.html 2.341787076469555
+**********
+
